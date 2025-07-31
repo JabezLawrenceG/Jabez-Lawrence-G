@@ -1,80 +1,178 @@
-<h1 align="center">Hey, I'm Jabez Lawrence G 👋</h1>
-
-###
-
-<h5 align="left">I'm a passionate and motivated AI/ML Engineer and an undergraduate student at PES University.I am dedicated to using machine learning and deep learning to build impactful solutions for complex problems.</h5>
-
-###
-
-<p align="left">⭐️ I'm a co-author on a Springer-published research paper on Graph Neural Networks.<br>⚙️ I’m currently building my capstone project: Identifying Speech and Online Handwritten Math Expressions</p>
-
-###
-
-<h3 align="left">🎓 Education & Certifications</h3>
-
-###
-
-<p align="left">▪️B.Tech, Artificial Intelligence & Machine Learning - PES University <br>Bengaluru, India (Jan '23 – Present) GPA: 8.71<br><br>▪️Diploma - PES Polytechnic Bengaluru, India (Aug '20 – Jul '23) <br>GPA: 9.14, among top performers in the institution.<br><br>◆ Certifications:<br>  ▸ Git and Github.<br>  ▸ Core Java Programming <br>  ▸ Python programming</p>
-
-###
-
-<h3 align="left">🚀 Key Projects & Research</h3>
-
-###
-
-<h6 align="left">➤ Graph-NIDS: Intrusion Detection<br>➤ Identifying Speech and Online Handwritten Math Expressions.<br>➤ Tic-Tac-Toe Game.</h6>
-
-###
-
-<h3 align="left">🔧 Technologies & Skills</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+<div align="center">
+  <h1>Hey, I'm Jabez Lawrence G 👋</h1>
 </div>
-
-###
-
-<p align="left">● Machine Learning <br>● Deep Learning <br>● DataStructures<br>● VS Code<br>● Docker</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="left">Socials</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JabezLawrenceG.JabezLawrenceG&"  />
+  <p>
+    An AI/ML Engineer and undergraduate student at PES University, dedicated to leveraging machine learning and deep learning to build impactful solutions for complex real-world problems.
+  </p>
 </div>
 
-###
+---
+
+### Quick Highlights
+- ⭐️ Co-author on a **Springer-published research paper** on Graph Neural Networks.
+- 🎓 Maintained a **9.14 GPA** in my Diploma and an **8.71 GPA** in my B.Tech program.
+- ⚙️ Currently building my capstone project: **Identifying Speech and Online Handwritten Math Expressions**.
+
+---
+
+### 🔧 Technologies & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🤖 AI/ML & Data Science</strong>
+      <ul>
+        <li>Machine Learning</li>
+        <li>Deep Learning</li>
+        <li>Graph Neural Networks (GNN)</li>
+        <li>Python</li>
+        <li>PyTorch</li>
+        <li>TensorFlow</li>
+        <li>Scikit-learn</li>
+        <li>Pandas & NumPy</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>💻 Programming & Databases</strong>
+      <ul>
+        <li>Java</li>
+        <li>Data Structures & Algorithms</li>
+        <li>MySQL</li>
+        <li>HTML & CSS</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🛠️ Tools & Platforms</strong>
+      <ul>
+        <li>Git & GitHub</li>
+        <li>Docker</li>
+        <li>VS Code</li>
+        <li>Jupyter Notebooks</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>💡 Core Competencies</strong>
+        <ul>
+          <li>Problem Solving</li>
+          <li>Research & Analysis</li>
+          <li>Software Development Lifecycle</li>
+          <li>Team Collaboration</li>
+        </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Key Projects & Research
+
+<details>
+  <summary><strong>📄 Research: Graph-NIDS - A GNN Approach for Intrusion Detection</strong></summary>
+  <ul>
+    <li>
+      Co-authored a research paper published in a <strong>Springer book series</strong>, proposing a novel intrusion detection system using Graph Neural Networks.
+    </li>
+    <li>
+      The model leverages graph structures to effectively learn the complex relationships within network traffic, achieving high accuracy in identifying malicious activities.
+    </li>
+    <li>
+      <strong>Technologies:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Scikit-learn</code>, <code>Pandas</code>
+    </li>
+    <li>
+      <a href="#"><strong>View Publication (Add Link)</strong></a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🎓 Capstone: Identifying Speech & Online Handwritten Math Expressions</strong></summary>
+  <ul>
+    <li>
+      Developing a multi-modal system to recognize and convert both spoken and digitally handwritten mathematical expressions into their corresponding LaTeX format.
+    </li>
+    <li>
+      This project involves sequence-to-sequence models for speech recognition and a combination of CNNs and LSTMs for handwriting recognition.
+    </li>
+    <li>
+      <strong>Technologies:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Keras</code>, <code>OpenCV</code>, <code>Librosa</code>
+    </li>
+    <li>
+      <a href="#"><strong>GitHub Repository (Add Link)</strong></a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🎮 Foundational: Tic-Tac-Toe Game</strong></summary>
+  <ul>
+    <li>
+      Developed a fully functional Tic-Tac-Toe game with an intelligent opponent using the Minimax algorithm.
+    </li>
+    <li>
+      This project solidified my understanding of fundamental programming concepts, algorithms, and object-oriented design in Java.
+    </li>
+    <li>
+      <strong>Technologies:</strong> <code>Java</code>, <code>Swing (for GUI)</code>
+    </li>
+    <li>
+      <a href="#"><strong>GitHub Repository (Add Link)</strong></a>
+    </li>
+  </ul>
+</details>
+
+---
+
+### 🎓 Education & Certifications
+
+- **B.Tech, Artificial Intelligence & Machine Learning** - PES University, Bengaluru
+  - *(Jan '23 – Present)* | GPA: **8.71**
+
+- **Diploma, Computer Science** - PES Polytechnic, Bengaluru
+  - *(Aug '20 – Jul '23)* | GPA: **9.14** (Among top performers)
+
+- **Certifications:**
+  - ▸ Git and Github
+  - ▸ Core Java Programming
+  - ▸ Python Programming
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph.svg">
+  </picture>
+  
+  <br/>
+  
+  </div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JabezLawrenceG.JabezLawrenceG&" />
+</div>
