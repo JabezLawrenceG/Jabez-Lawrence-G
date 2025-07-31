@@ -141,28 +141,15 @@
 
 ---
 
-### 📊 My GitHub Stats & Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JabezLawrenceG/JabezLawrenceG/output/pacman-contribution-graph.svg">
-  </picture>
-  
-  <br/>
-  
-  </div>
-
----
 
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="www.linkedin.com/in/jabez-lawrence-2a3a3b253" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:jabezcs32@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="#" target="_blank">
@@ -173,7 +160,4 @@
   </a>
 </div>
 
-<div align="center">
- 
-</div>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=JabezLawrenceG.JabezLawrenceG&" />
